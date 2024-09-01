@@ -38,4 +38,4 @@ Alternatively, scan the QR code below to view the report on your mobile device:
 To get started with this report locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Amazon-Sales-Report-2015-2017.git
+   git clone https://github.com/Rahulkannan0784/Amazon-Monthly-Sales-PowerBI-Dashboard   
