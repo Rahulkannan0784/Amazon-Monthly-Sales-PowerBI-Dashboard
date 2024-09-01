@@ -1,9 +1,16 @@
-# Amazon Monthly Sales Report (2015-2017)
+# Amazon Monthly Sales Report (2015-2017)  
 
-![Dashboard Preview](DashBoard.jpg)
 
 ## Overview
 This repository contains a comprehensive Power BI report analyzing Amazon's monthly sales data from 2015 to 2017. The report provides valuable insights into sales trends, seasonal patterns, and key performance metrics across different categories and regions over the three-year period. By leveraging interactive visualizations and dynamic filters, users can explore sales data in detail, identify key drivers of growth, and uncover hidden patterns in Amazon's sales performance. This report is a useful tool for data analysts, business strategists, and anyone interested in understanding e-commerce sales dynamics.
+
+
+## Dashboard Preview 1
+![Dashboard Preview 1](DashBoard.jpg)
+
+## Dashboard Preview 2
+![Dashboard Preview 2](DashBoard2.jpg)
+
 
 ## Report Access
 You can view the interactive Power BI report by clicking the link below:
